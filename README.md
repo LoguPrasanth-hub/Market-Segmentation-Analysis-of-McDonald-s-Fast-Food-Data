@@ -1,0 +1,1 @@
+# Market-Segmentation-Analysis-of-McDonald-s-Fast-Food-Data
